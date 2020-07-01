@@ -1,5 +1,6 @@
 # Analysis with Ford GoBike System Data
-by Pankaj
+by Pankaj 
+
 Jun,2020
 
 ## Dataset
@@ -20,6 +21,9 @@ Here are the fields provided to us within the primary source dataset .
 - end_station_longitude    
 - bike_id
 - user_type
+
+## Files 
+
 
 
 ## Summary of the findings

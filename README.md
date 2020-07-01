@@ -1,7 +1,4 @@
 # Analysis with Ford GoBike System Data
-by Pankaj 
-
-Jun,2020
 
 ## Dataset
 
@@ -23,6 +20,10 @@ Here are the fields provided to us within the primary source dataset .
 - user_type
 
 ## Files 
+
+- 2017-fordgobike-tripdata.csv contains the dataset
+- exploration_template.ipynb consists of all the code.
+- slide_deck_template.slides contains the presentation of the analysis made using jupyter nbconvert
 
 
 
